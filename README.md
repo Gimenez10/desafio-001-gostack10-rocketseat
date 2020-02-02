@@ -10,7 +10,7 @@
 ## :rocket: :alien: Objetivo!
 _Criar uma aplicação para armazenar projetos e suas tarefas._
 
-### Tecnologias utilizadas
+### Tecnologia utilizada
 
 - _[Express](https://expressjs.com/pt-br/)_
 
