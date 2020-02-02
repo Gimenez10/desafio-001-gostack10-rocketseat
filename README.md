@@ -7,8 +7,7 @@
   Desafio 1: Conceitos de NodeJS
 </h3>
 
-## :rocket: Objetivo
-
+## :rocket: :alien: Objetivo!
 _Criar uma aplicação para armazenar projetos e suas tarefas._
 
 ### Tecnologias utilizadas
