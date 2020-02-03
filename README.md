@@ -4,17 +4,18 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1: Conceitos de NodeJS
+  :checkered_flag: Desafio 1: Conceitos de NodeJS
 </h3>
 
 ## :rocket: :alien: Objetivo!
 _Criar uma aplicação para armazenar projetos e suas tarefas._
 
-### Tecnologia utilizada
+### :hammer: Tecnologias utilizadas
 
 - _[Express](https://expressjs.com/pt-br/)_
+- _[NodeJS](https://nodejs.org/en/)_
 
-### Rotas
+### :pushpin: Rotas
 
 - `[POST] /projects`: Cria novo projeto;
 
